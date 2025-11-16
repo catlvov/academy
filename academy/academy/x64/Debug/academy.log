@@ -1,0 +1,3 @@
+﻿  academy.cpp
+C:\Users\catlvov\Desktop\academy\academy\academy.cpp(405,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  academy.vcxproj -> C:\Users\catlvov\Desktop\academy\x64\Debug\academy.exe
