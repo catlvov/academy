@@ -1,0 +1,6 @@
+﻿  academy.cpp
+C:\Users\catlvov\Desktop\academy\academy\academy.cpp(192,16): error C2059: syntax error: 'const'
+C:\Users\catlvov\Desktop\academy\academy\academy.cpp(193,5): error C2512: 'Student': no appropriate default constructor available
+      C:\Users\catlvov\Desktop\academy\academy\academy.cpp(117,7):
+      see declaration of 'Student'
+  
